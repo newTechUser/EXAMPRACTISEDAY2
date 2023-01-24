@@ -1,0 +1,35 @@
+
+.basket{
+    padding-top: 200px;
+}
+
+
+.baskettext{
+    background-image: url("https://preview.colorlib.com/theme/aroma/img/home/parallax-bg.png.webp");
+    background-size: cover;
+    height: 500px;
+}
+.baskethead{
+    padding: 200px 0px 0px 400px;
+}
+.baskettitle{
+    font-size: 50px;
+    font-weight: bold;
+    margin: 0;
+}
+.basketname{
+    font-size: 30px;
+    margin: 0;
+}
+.basketabout{
+    font-size: 20px;
+    margin: 0;
+}
+
+.basketbutton{
+    padding: 15px;
+    border-radius: 15px;
+    border: 1px solid;
+    color: white;
+    background-color: #384aeb;
+}

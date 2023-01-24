@@ -1,0 +1,82 @@
+.trend{
+    padding-top: 200px;
+}
+.trendtitle{
+    font-size: 20px;
+    padding-left: 400px;
+    margin: 0;
+}
+.trendmain{
+    font-size: 40px;
+    font-weight: bold;
+    padding-left: 400px;
+    margin: 0;
+}   
+
+.container{
+    padding: 100px 200px 0px 400px;
+}
+
+
+.card{
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 10px;
+    flex-wrap: wrap; 
+    height: 800px;
+}
+
+.cardimage{
+    width: 255px;
+    height: 271px;
+}
+.cardtext{
+    text-align: center;
+    width: 255px;
+}
+.cardtitletext{
+    margin: 0;
+}
+.cardbrendtext{
+    font-weight: bold;
+    font-size: 20px;
+    margin: 0;
+}
+.cardprice{
+    margin: 0;
+}
+
+
+
+.srchpadd{
+    padding-top: 40px;
+    padding-left: 400px;
+}
+.divsrchinput{
+    border: 1px solid;
+    border-radius: 10px;
+    width: 433px;
+}   
+.srchinput{
+    width: 300px;
+    height: 30px;
+    padding-left: 30px;
+    font-size: 20px;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    border: none;
+    color: black;
+}
+.Srch{
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    width: 100px;
+    height: 32px;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+    color: black;
+    background-color: yellow;
+}

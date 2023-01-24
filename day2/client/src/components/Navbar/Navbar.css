@@ -1,0 +1,66 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    background-color: white;
+}
+.navstart{
+    padding-left: 200px;
+}
+.navcenter{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
+.navend{
+    padding-right: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
+
+
+.navlogo{
+    width: 200px;
+    height: 40px;
+}
+.home{
+    font-size: 25px;
+    text-decoration: none;
+}
+.add{
+    font-size: 25px;
+    text-decoration: none;
+}
+.blog{
+    font-size: 25px;
+}
+.pages{
+    font-size: 25px;
+}
+.contact{
+    font-size: 25px;
+}
+
+.navicon{
+    padding-right: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    gap: 30px;
+}
+.divnavbtn{
+    padding-right: 40px;
+}
+.navbtn{
+    padding: 20px;
+    border: 1px solid;
+    border-radius: 15px;
+    font-size: 20px;
+}

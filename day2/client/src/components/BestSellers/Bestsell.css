@@ -1,0 +1,47 @@
+.trend{
+    padding-top: 200px;
+}
+.trendtitle{
+    font-size: 20px;
+    padding-left: 400px;
+    margin: 0;
+}
+.trendmain{
+    font-size: 40px;
+    font-weight: bold;
+    padding-left: 400px;
+    margin: 0;
+}   
+
+.container{
+    padding: 100px 400px 0px 400px;
+}
+
+
+.card{
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.cardimage{
+    width: 255px;
+    height: 271px;
+}
+.cardtext{
+    text-align: center;
+}
+.cardtitletext{
+    margin: 0;
+}
+.cardbrendtext{
+    font-weight: bold;
+    font-size: 20px;
+    margin: 0;
+}
+.cardprice{
+    margin: 0;
+}
