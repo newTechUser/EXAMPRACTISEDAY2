@@ -3,18 +3,18 @@
 }
 .trendtitle{
     font-size: 20px;
-    padding-left: 400px;
+    padding-left: 200px;
     margin: 0;
 }
 .trendmain{
     font-size: 40px;
     font-weight: bold;
-    padding-left: 400px;
+    padding-left: 200px;
     margin: 0;
 }   
 
 .container{
-    padding: 100px 200px 0px 400px;
+    padding: 100px 100px 0px 200px;
 }
 
 
@@ -52,7 +52,7 @@
 
 .srchpadd{
     padding-top: 40px;
-    padding-left: 400px;
+    padding-left: 200px;
 }
 .divsrchinput{
     border: 1px solid;

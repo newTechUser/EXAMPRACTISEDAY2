@@ -22,7 +22,7 @@
 
 .imgside{
     position: absolute;
-    left: 350px;
+    left: 200px;
     padding-top: 105px;
 }
 .headimage{
@@ -40,9 +40,9 @@
 .headdecs{
     font-size: 30px;
 }
-.headdivbtn{
+/* .headdivbtn{
 
-}
+} */
 .headbtn{
     border: 1px solid;
     padding: 20px;
